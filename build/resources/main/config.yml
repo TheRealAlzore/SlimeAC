@@ -1,0 +1,3 @@
+# SlimeAC Configuration File Version 1.0.0
+
+flag-message: "&aSlimeAC &7| &f{player} &fFailed &b{check} &7(&b{type}&7) &c{vl}&7x"

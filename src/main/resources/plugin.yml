@@ -1,0 +1,6 @@
+name: SlimeAC
+version: '1.0.0'
+main: ac.slime.SlimePlugin
+api-version: '1.19'
+authors: [ TheRealAlzore ]
+description: An Reliable & Fast AntiCheat Solution

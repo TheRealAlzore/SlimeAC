@@ -1,0 +1,6 @@
+checks:
+  FlightA:
+    enabled: true
+    rubber: false
+    max-violation: 100
+    punishment: "kick {player} Cheating"
